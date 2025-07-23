@@ -1,0 +1,3 @@
+/home/king/code/cmake-build-debug-ubutu_vm/CMakeFiles/File1.dir
+/home/king/code/cmake-build-debug-ubutu_vm/CMakeFiles/edit_cache.dir
+/home/king/code/cmake-build-debug-ubutu_vm/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="ubutu_vm (27494759-d42f-4338-adbe-ed0ef2b01e6c)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-ubutu_vm" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-ubutu_vm" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

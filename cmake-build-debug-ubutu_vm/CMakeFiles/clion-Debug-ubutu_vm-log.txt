@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /home/king/code -B /home/king/code/cmake-build-debug-ubutu_vm
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/king/code/cmake-build-debug-ubutu_vm
